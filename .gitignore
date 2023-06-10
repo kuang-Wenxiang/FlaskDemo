@@ -1,0 +1,6 @@
+log
+config.py
+.idea
+__pycache__/
+migrations
+config.py
